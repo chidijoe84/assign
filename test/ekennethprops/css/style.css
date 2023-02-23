@@ -660,6 +660,7 @@ a:focus {
   background-color: #3a4863 ;
   color: white;
   font-family: 'Poppins', sans-serif;
+  text-align: center;
 }
 
 .price_section .price_container .box {
